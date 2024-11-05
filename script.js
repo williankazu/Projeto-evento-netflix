@@ -7,7 +7,7 @@ let audio = document.querySelector(".audio")
 botaoSom.addEventListener("click", ligaSom)
 
 function ligaSom(){
-    video.muted = !video.muted
+    video.muted = !video.muted 
 }
 
 
